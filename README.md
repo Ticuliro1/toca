@@ -15,7 +15,8 @@ Baixe o arquivo **Toca-Setup-x.x.x.exe** e instale. O Toca se atualiza sozinho d
 
 - 📸 **Social:** poste fotos e vídeos com legenda, siga pessoas, curta, comente e compartilhe — com feed "Para você", vídeos em tela cheia, Em alta e Explorar
 - 💬 Mensagens diretas com imagens, arquivos de até 1 GB, respostas, edição e emojis
-- 👥 Grupos com modelos prontos, canais de texto e de voz, canais só para admins, modo lento, limite nas salas, administradores e convites
+- 👥 Grupos com modelos prontos, canais de texto e de voz, canais só para admins, modo lento, limite nas salas, administradores e convites — e que **continuam funcionando com o dono offline**
+- 🤝 Pedidos de amizade e convites chegam mesmo se a pessoa estiver com o Toca fechado
 - 🎙️ Chamadas de voz com detecção de voz, pressionar para falar, supressão de ruído e volume por pessoa
 - 📷 Câmera nas chamadas
 - 🖥️ Compartilhamento de tela até 1440p/60 FPS, com qualidade ajustável ao vivo e áudio do PC (sem o som da chamada)
