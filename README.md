@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.png" width="160" alt="Toca"></p>
+
 # Toca
 
 **Chat, chamadas de voz, câmera e compartilhamento de tela com seus amigos — sem servidor e sem VPN.**
