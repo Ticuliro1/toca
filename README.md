@@ -11,8 +11,9 @@ Baixe o arquivo **Toca-Setup-x.x.x.exe** e instale. O Toca se atualiza sozinho d
 
 ## O que tem
 
+- 📸 **Social:** poste fotos e vídeos com legenda, siga pessoas, curta, comente e compartilhe — com feed "Para você", vídeos em tela cheia, Em alta e Explorar
 - 💬 Mensagens diretas com imagens, arquivos de até 1 GB, respostas, edição e emojis
-- 👥 Grupos com canais de texto e de voz, administradores e convites
+- 👥 Grupos com modelos prontos, canais de texto e de voz, canais só para admins, modo lento, limite nas salas, administradores e convites
 - 🎙️ Chamadas de voz com detecção de voz, pressionar para falar, supressão de ruído e volume por pessoa
 - 📷 Câmera nas chamadas
 - 🖥️ Compartilhamento de tela até 1440p/60 FPS, com qualidade ajustável ao vivo e áudio do PC (sem o som da chamada)
@@ -32,6 +33,10 @@ O Toca não tem servidor central e não coleta dados. Mensagens, amigos e grupos
 Para se encontrarem pela internet, os Tocas usam relays públicos da rede Nostr apenas como "caixa de correio",
 com mensagens assinadas e criptografadas de ponta a ponta. As chamadas e arquivos vão direto entre os PCs.
 Como em qualquer conexão direta, amigos conectados podem ver seu IP público.
+
+Tudo que você posta no **Social** é público para quem usa o Toca. Fotos e textos ficam em relays públicos da rede Nostr;
+vídeos ficam no seu PC e vão direto para quem assiste (que pode ver seu IP). Posts podem ser denunciados, e o criador
+do Toca pode remover posts e banir contas do Social.
 
 ## Termos
 
